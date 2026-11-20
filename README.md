@@ -11,3 +11,11 @@ Este proyecto es una práctica de Entornos de Desarrollo del ciclo DAM.
 ### Cambios en la animación de las columnas
 
 ![Diferencias del commit 4ded045](captura2.png)
+
+### Historial de las ramas
+
+![Historial de las ramas](captura-ramas.png)
+
+### Resultado de la fusión de las ramas
+
+![Página después del merge](captura-merge.png)
